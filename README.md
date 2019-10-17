@@ -6,7 +6,7 @@ This Dockerfile can build containers capable to use openrc.
 Branches
 --------
 
-This repository has multiple branches that relate to Fedora versions.
+This repository has multiple branches that relate to Alpine versions.
 
 |Branch |Alpine Version|Docker image tag|
 |-------|--------------|----------------|
