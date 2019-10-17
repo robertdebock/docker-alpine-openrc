@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:edge
 LABEL maintainer="Robert de Bock"
 ENV container=docker
 
