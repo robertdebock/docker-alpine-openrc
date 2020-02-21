@@ -1,5 +1,7 @@
 FROM alpine:edge
-LABEL maintainer="Robert de Bock"
+
+LABEL maintainer="Robert de Bock <robert@meinit.nl>"
+
 ENV container=docker
 
 # Enable init.
