@@ -3,7 +3,7 @@ Docker Alpine openrc
 
 This Dockerfile can build containers capable to use openrc.
 
-|[![alpine build status](https://img.shields.io/docker/cloud/build/robertdebock/alpine.svg)](https://hub.docker.com/repository/docker/robertdebock/alpine)
+[![alpine build status](https://img.shields.io/docker/cloud/build/robertdebock/alpine.svg)](https://hub.docker.com/repository/docker/robertdebock/alpine)
 
 Branches
 --------
