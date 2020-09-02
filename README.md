@@ -12,7 +12,7 @@ This repository has multiple branches that relate to Alpine versions.
 
 |Branch |Alpine Version|Docker image tag|
 |-------|--------------|----------------|
-|master |latest        |latest          |
+|master |3             |3               |
 |edge   |edge          |edge            |
 
 Pull strategy

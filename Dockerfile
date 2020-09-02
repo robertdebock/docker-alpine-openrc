@@ -24,4 +24,5 @@ RUN apk add --update --no-cache openrc && \
     sed -i 's/VSERVER/DOCKER/Ig' /lib/rc/sh/init.sh
 
 VOLUME ["/sys/fs/cgroup"]
+
 CMD ["/sbin/init"]
