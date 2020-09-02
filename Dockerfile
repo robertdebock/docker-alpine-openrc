@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
 
