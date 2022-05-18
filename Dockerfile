@@ -1,7 +1,7 @@
 FROM alpine:3
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL build_date="2022-02-13"
+LABEL build_date="2022-05-18"
 
 ENV container=docker
 
