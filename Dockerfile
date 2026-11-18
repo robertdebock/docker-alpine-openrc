@@ -13,7 +13,7 @@ RUN apk add --update --no-cache openrc && \
       -e 's/#rc_env_allow=".*"/rc_env_allow="\*"/g' \
       -e 's/#rc_crashed_stop=.*/rc_crashed_stop=NO/g' \
       -e 's/#rc_crashed_start=.*/rc_crashed_start=YES/g' \
-      -e 's/#rc_provide=".*"/rc_provide="loopback net"/g' \
+      -e 's/#rc_provide=".*"/rc_provide="loopback net dev"/g' \
       /etc/rc.conf && \
     rm -f /etc/init.d/hwdrivers \
       /etc/init.d/hwclock \
